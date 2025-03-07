@@ -91,7 +91,7 @@ of a special topic, which will be announced in advance.
 
 ### Upcoming Meetings
 
--   2025-03-05 - Global Infrastructure Lab (Igor Sfiligoi)
+-   2025-03-05 - [Global Infrastructure Lab](https://drive.google.com/file/d/1sWJ5VrYMlwKmImmG0gzbAKRxjt-ieW_E/view?usp=sharing) (Igor Sfiligoi)
 -   2025-03-12 - Town Hall
 -   2025-03-19 - Operations (Jeff Dost)
 -   2025-03-26 - Research Facilitation (Christina Koch)
